@@ -1,0 +1,27 @@
+[
+    {
+        "produit": "sucre",
+        "prix": "15",
+        "qte": "10"
+    },
+    {
+        "produit": "café",
+        "prix": "20",
+        "qte": "5"
+    },
+    {
+        "produit": "viande",
+        "prix": "100",
+        "qte": "2"
+    },
+    {
+        "produit": "olive",
+        "prix": "20",
+        "qte": "2"
+    },
+    {
+        "produit": "confiture",
+        "prix": "30",
+        "qte": "2"
+    }
+]
